@@ -1,0 +1,11 @@
+class Hashmap {
+    public static void main (string[] arrgs) {
+        Hashmap <integer, integer> map = new Hashmap <>();
+        map.put (1,7)
+        System.out.printIn(map);
+        System.out.printIn(get.1);
+    }
+}
+        
+        
+
